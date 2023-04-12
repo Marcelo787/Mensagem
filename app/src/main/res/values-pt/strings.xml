@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mensagem</string>
+    <string name="mensagem_recebida">Mensagem Recebida</string>
+    <string name="textview">TextView</string>
+    <string name="enviar">Enviar</string>
+    <string name="mensagem_vazia">Mensagem não podde ser vazia</string>
+    <string name="mensagem">Mensagem</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Message</string>
+    <string name="mensagem_recebida">Message Receive</string>
+    <string name="textview">TextView</string>
+    <string name="enviar">Send</string>
+    <string name="mensagem_vazia">Message cannot be empty</string>
+    <string name="mensagem">Message</string>
+</resources>
